@@ -142,3 +142,10 @@ footer {
   padding: 20px;
   color: #666;
 }
+
+.participant {
+  color: #1a237e; /* Example styling */
+  font-size: 16px;
+  font-weight: bold;
+  margin: 10px 0;
+}
